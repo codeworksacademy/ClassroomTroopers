@@ -100,7 +100,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -114,7 +114,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -138,7 +138,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -180,9 +180,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 95
-        width: 14
-        height: 15
+        y: 96
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,10 +201,10 @@ TextureImporter:
       name: soldier-sheet_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 80
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,10 +223,10 @@ TextureImporter:
       name: soldier-sheet_2
       rect:
         serializedVersion: 2
-        x: 48
+        x: 16
         y: 80
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,10 +245,10 @@ TextureImporter:
       name: soldier-sheet_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 79
-        width: 14
-        height: 15
+        x: 32
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,10 +267,10 @@ TextureImporter:
       name: soldier-sheet_4
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
-        width: 14
-        height: 15
+        x: 48
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: soldier-sheet_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 79
-        width: 14
-        height: 15
+        x: 0
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,10 +311,10 @@ TextureImporter:
       name: soldier-sheet_6
       rect:
         serializedVersion: 2
-        x: 48
+        x: 16
         y: 64
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,9 +333,9 @@ TextureImporter:
       name: soldier-sheet_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 62
-        width: 14
+        x: 32
+        y: 64
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -355,9 +355,9 @@ TextureImporter:
       name: soldier-sheet_8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 47
-        width: 13
+        x: 48
+        y: 64
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -377,10 +377,10 @@ TextureImporter:
       name: soldier-sheet_9
       rect:
         serializedVersion: 2
-        x: 32
-        y: 63
-        width: 14
-        height: 15
+        x: 0
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,9 +399,9 @@ TextureImporter:
       name: soldier-sheet_10
       rect:
         serializedVersion: 2
-        x: 1
-        y: 31
-        width: 14
+        x: 0
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -421,9 +421,9 @@ TextureImporter:
       name: soldier-sheet_11
       rect:
         serializedVersion: 2
-        x: 17
-        y: 31
-        width: 14
+        x: 16
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -443,10 +443,10 @@ TextureImporter:
       name: soldier-sheet_12
       rect:
         serializedVersion: 2
-        x: 33
+        x: 32
         y: 32
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,9 +465,9 @@ TextureImporter:
       name: soldier-sheet_13
       rect:
         serializedVersion: 2
-        x: 49
-        y: 31
-        width: 14
+        x: 48
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -487,10 +487,10 @@ TextureImporter:
       name: soldier-sheet_14
       rect:
         serializedVersion: 2
-        x: 65
+        x: 64
         y: 32
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,9 +509,9 @@ TextureImporter:
       name: soldier-sheet_15
       rect:
         serializedVersion: 2
-        x: 1
-        y: 15
-        width: 14
+        x: 0
+        y: 16
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -531,10 +531,10 @@ TextureImporter:
       name: soldier-sheet_16
       rect:
         serializedVersion: 2
-        x: 17
+        x: 16
         y: 16
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,9 +553,9 @@ TextureImporter:
       name: soldier-sheet_17
       rect:
         serializedVersion: 2
-        x: 33
-        y: 15
-        width: 14
+        x: 32
+        y: 16
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -575,10 +575,10 @@ TextureImporter:
       name: soldier-sheet_18
       rect:
         serializedVersion: 2
-        x: 49
+        x: 48
         y: 16
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,7 +600,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 16
-        height: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -619,10 +619,10 @@ TextureImporter:
       name: soldier-sheet_20
       rect:
         serializedVersion: 2
-        x: 15
+        x: 16
         y: 0
-        width: 15
-        height: 14
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -641,10 +641,10 @@ TextureImporter:
       name: soldier-sheet_21
       rect:
         serializedVersion: 2
-        x: 33
+        x: 32
         y: 0
-        width: 13
-        height: 14
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -663,7 +663,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9e9fdc5b286994d44a40b2fef9eb1ccd
     internalID: 0
     vertices: []
     indices: 
@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soldier-sheet_0: -4318237462920738398
+      soldier-sheet_1: -2356542679101896294
+      soldier-sheet_10: 8899210557323603284
+      soldier-sheet_11: -5755364500041792660
+      soldier-sheet_12: 1598678385172440615
+      soldier-sheet_13: -2556933300024275749
+      soldier-sheet_14: 1747052846561068207
+      soldier-sheet_15: -2576947876802237819
+      soldier-sheet_16: -2989814252325718247
+      soldier-sheet_17: 7614006023816472838
+      soldier-sheet_18: -411088142562407549
+      soldier-sheet_19: 7730891473254326142
+      soldier-sheet_2: -7940278222015279334
+      soldier-sheet_20: 3937495229951774242
+      soldier-sheet_21: 565423729639261372
+      soldier-sheet_3: -985972300783815581
+      soldier-sheet_4: 6581422036007820131
+      soldier-sheet_5: -1683082553163927579
+      soldier-sheet_6: -7676730524372117203
+      soldier-sheet_7: 2019033593971649515
+      soldier-sheet_8: -993151925885112967
+      soldier-sheet_9: 5088295174011949366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

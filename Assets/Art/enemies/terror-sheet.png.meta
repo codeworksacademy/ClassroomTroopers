@@ -130,7 +130,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -144,7 +144,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -168,7 +168,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -209,10 +209,10 @@ TextureImporter:
       name: terror-sheet_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 479
-        width: 39
-        height: 23
+        x: 0
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +231,10 @@ TextureImporter:
       name: terror-sheet_1
       rect:
         serializedVersion: 2
-        x: 55
-        y: 479
-        width: 39
-        height: 22
+        x: 48
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +253,10 @@ TextureImporter:
       name: terror-sheet_2
       rect:
         serializedVersion: 2
-        x: 103
-        y: 479
-        width: 39
-        height: 22
+        x: 96
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,10 +275,10 @@ TextureImporter:
       name: terror-sheet_3
       rect:
         serializedVersion: 2
-        x: 151
-        y: 479
-        width: 39
-        height: 23
+        x: 144
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,10 +297,10 @@ TextureImporter:
       name: terror-sheet_4
       rect:
         serializedVersion: 2
-        x: 7
-        y: 431
-        width: 39
-        height: 23
+        x: 0
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,10 +319,10 @@ TextureImporter:
       name: terror-sheet_5
       rect:
         serializedVersion: 2
-        x: 57
-        y: 431
-        width: 37
-        height: 25
+        x: 48
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,10 +341,10 @@ TextureImporter:
       name: terror-sheet_6
       rect:
         serializedVersion: 2
-        x: 110
-        y: 431
-        width: 32
-        height: 26
+        x: 96
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,10 +363,10 @@ TextureImporter:
       name: terror-sheet_7
       rect:
         serializedVersion: 2
-        x: 7
-        y: 383
-        width: 39
-        height: 23
+        x: 0
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,10 +385,10 @@ TextureImporter:
       name: terror-sheet_8
       rect:
         serializedVersion: 2
-        x: 55
-        y: 383
-        width: 39
-        height: 23
+        x: 48
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: terror-sheet_9
       rect:
         serializedVersion: 2
-        x: 103
-        y: 383
-        width: 39
-        height: 23
+        x: 96
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,10 +429,10 @@ TextureImporter:
       name: terror-sheet_10
       rect:
         serializedVersion: 2
-        x: 151
-        y: 383
-        width: 39
-        height: 23
+        x: 144
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -451,10 +451,10 @@ TextureImporter:
       name: terror-sheet_11
       rect:
         serializedVersion: 2
-        x: 7
-        y: 337
-        width: 39
-        height: 21
+        x: 0
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -473,10 +473,10 @@ TextureImporter:
       name: terror-sheet_12
       rect:
         serializedVersion: 2
-        x: 55
-        y: 335
-        width: 39
-        height: 22
+        x: 48
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -495,10 +495,10 @@ TextureImporter:
       name: terror-sheet_13
       rect:
         serializedVersion: 2
-        x: 103
-        y: 337
-        width: 39
-        height: 21
+        x: 96
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,10 +517,10 @@ TextureImporter:
       name: terror-sheet_14
       rect:
         serializedVersion: 2
-        x: 151
-        y: 335
-        width: 39
-        height: 22
+        x: 144
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,10 +539,10 @@ TextureImporter:
       name: terror-sheet_15
       rect:
         serializedVersion: 2
-        x: 8
-        y: 287
-        width: 36
-        height: 27
+        x: 0
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +561,10 @@ TextureImporter:
       name: terror-sheet_16
       rect:
         serializedVersion: 2
-        x: 51
-        y: 287
-        width: 43
-        height: 22
+        x: 48
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,10 +583,10 @@ TextureImporter:
       name: terror-sheet_17
       rect:
         serializedVersion: 2
-        x: 104
-        y: 287
-        width: 38
-        height: 22
+        x: 96
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,10 +605,10 @@ TextureImporter:
       name: terror-sheet_18
       rect:
         serializedVersion: 2
-        x: 7
-        y: 239
-        width: 35
-        height: 25
+        x: 0
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,10 +627,10 @@ TextureImporter:
       name: terror-sheet_19
       rect:
         serializedVersion: 2
-        x: 59
-        y: 239
-        width: 34
-        height: 33
+        x: 48
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,10 +649,10 @@ TextureImporter:
       name: terror-sheet_20
       rect:
         serializedVersion: 2
-        x: 107
-        y: 246
-        width: 33
-        height: 30
+        x: 96
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,10 +671,10 @@ TextureImporter:
       name: terror-sheet_21
       rect:
         serializedVersion: 2
-        x: 154
-        y: 239
-        width: 31
-        height: 36
+        x: 144
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,10 +693,10 @@ TextureImporter:
       name: terror-sheet_22
       rect:
         serializedVersion: 2
-        x: 6
-        y: 193
-        width: 40
-        height: 25
+        x: 0
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -715,10 +715,10 @@ TextureImporter:
       name: terror-sheet_23
       rect:
         serializedVersion: 2
-        x: 54
-        y: 191
-        width: 40
-        height: 26
+        x: 48
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,10 +737,10 @@ TextureImporter:
       name: terror-sheet_24
       rect:
         serializedVersion: 2
-        x: 102
-        y: 193
-        width: 40
-        height: 25
+        x: 96
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -759,10 +759,10 @@ TextureImporter:
       name: terror-sheet_25
       rect:
         serializedVersion: 2
-        x: 150
-        y: 191
-        width: 40
-        height: 26
+        x: 144
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,10 +781,10 @@ TextureImporter:
       name: terror-sheet_26
       rect:
         serializedVersion: 2
-        x: 7
-        y: 143
-        width: 39
-        height: 27
+        x: 0
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,10 +803,10 @@ TextureImporter:
       name: terror-sheet_27
       rect:
         serializedVersion: 2
-        x: 9
-        y: 95
-        width: 30
-        height: 16
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,10 +825,10 @@ TextureImporter:
       name: terror-sheet_28
       rect:
         serializedVersion: 2
-        x: 57
-        y: 95
-        width: 30
-        height: 16
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,10 +847,10 @@ TextureImporter:
       name: terror-sheet_29
       rect:
         serializedVersion: 2
-        x: 105
-        y: 95
-        width: 30
-        height: 17
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: terror-sheet_30
       rect:
         serializedVersion: 2
-        x: 9
-        y: 47
-        width: 30
-        height: 23
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,10 +891,10 @@ TextureImporter:
       name: terror-sheet_31
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 0
-        width: 30
-        height: 15
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -913,7 +913,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 46bb37a8863e40f4b81c49f6efeedf76
     internalID: 0
     vertices: []
     indices: 
@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terror-sheet_0: -6472434036733664193
+      terror-sheet_1: -7062079928503276761
+      terror-sheet_10: -4191619799223543289
+      terror-sheet_11: 6991628867754295646
+      terror-sheet_12: -4582479680423905948
+      terror-sheet_13: -4459702663171213439
+      terror-sheet_14: 8194494809574958710
+      terror-sheet_15: 454598639146129114
+      terror-sheet_16: 8433377397358673957
+      terror-sheet_17: -5970670932041230316
+      terror-sheet_18: 5209027783207314855
+      terror-sheet_19: -4277325214450981220
+      terror-sheet_2: 975599319216328020
+      terror-sheet_20: -2586862709796399449
+      terror-sheet_21: 8753498750089656029
+      terror-sheet_22: -9181972926741987359
+      terror-sheet_23: 2055807005237458880
+      terror-sheet_24: -8526057585813621640
+      terror-sheet_25: -5931411667370170291
+      terror-sheet_26: 7064240342739574314
+      terror-sheet_27: 1541810444842364689
+      terror-sheet_28: -4692944901121603873
+      terror-sheet_29: -9029700154747122174
+      terror-sheet_3: -8104384008127781210
+      terror-sheet_30: -8711631224924571651
+      terror-sheet_31: 925304747594258456
+      terror-sheet_4: 5168525988277069753
+      terror-sheet_5: -7885680619940863252
+      terror-sheet_6: 936566385454131781
+      terror-sheet_7: -4268489816390050504
+      terror-sheet_8: -2662360175283338184
+      terror-sheet_9: -3915259333690154197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

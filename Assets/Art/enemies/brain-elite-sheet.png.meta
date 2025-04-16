@@ -133,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,7 +147,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -171,7 +171,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -212,10 +212,10 @@ TextureImporter:
       name: brain-elite-sheet_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 431
-        width: 43
-        height: 31
+        x: 0
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: brain-elite-sheet_1
       rect:
         serializedVersion: 2
-        x: 53
-        y: 431
-        width: 43
-        height: 32
+        x: 48
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: brain-elite-sheet_2
       rect:
         serializedVersion: 2
-        x: 101
-        y: 431
-        width: 43
-        height: 32
+        x: 96
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: brain-elite-sheet_3
       rect:
         serializedVersion: 2
-        x: 149
-        y: 431
-        width: 43
-        height: 31
+        x: 144
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: brain-elite-sheet_4
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 384
-        width: 43
-        height: 31
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: brain-elite-sheet_5
       rect:
         serializedVersion: 2
-        x: 53
-        y: 383
-        width: 43
-        height: 31
+        x: 48
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: brain-elite-sheet_6
       rect:
         serializedVersion: 2
-        x: 101
+        x: 96
         y: 384
-        width: 43
-        height: 30
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: brain-elite-sheet_7
       rect:
         serializedVersion: 2
-        x: 149
-        y: 383
-        width: 43
-        height: 31
+        x: 144
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: brain-elite-sheet_8
       rect:
         serializedVersion: 2
-        x: 5
-        y: 335
-        width: 43
-        height: 31
+        x: 0
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: brain-elite-sheet_9
       rect:
         serializedVersion: 2
-        x: 53
-        y: 335
-        width: 43
-        height: 30
+        x: 48
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: brain-elite-sheet_10
       rect:
         serializedVersion: 2
-        x: 102
-        y: 335
-        width: 42
-        height: 30
+        x: 96
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: brain-elite-sheet_11
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 288
-        width: 46
-        height: 31
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +476,10 @@ TextureImporter:
       name: brain-elite-sheet_12
       rect:
         serializedVersion: 2
-        x: 50
-        y: 287
-        width: 46
-        height: 31
+        x: 48
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +498,10 @@ TextureImporter:
       name: brain-elite-sheet_13
       rect:
         serializedVersion: 2
-        x: 98
+        x: 96
         y: 288
-        width: 46
-        height: 31
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +520,10 @@ TextureImporter:
       name: brain-elite-sheet_14
       rect:
         serializedVersion: 2
-        x: 146
-        y: 287
-        width: 46
-        height: 31
+        x: 144
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +542,10 @@ TextureImporter:
       name: brain-elite-sheet_15
       rect:
         serializedVersion: 2
-        x: 7
-        y: 239
-        width: 41
-        height: 37
+        x: 0
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +564,10 @@ TextureImporter:
       name: brain-elite-sheet_16
       rect:
         serializedVersion: 2
-        x: 56
-        y: 239
-        width: 39
-        height: 38
+        x: 48
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,10 +586,10 @@ TextureImporter:
       name: brain-elite-sheet_17
       rect:
         serializedVersion: 2
-        x: 104
-        y: 239
-        width: 39
-        height: 39
+        x: 96
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,10 +608,10 @@ TextureImporter:
       name: brain-elite-sheet_18
       rect:
         serializedVersion: 2
-        x: 147
-        y: 239
-        width: 45
-        height: 33
+        x: 144
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +630,10 @@ TextureImporter:
       name: brain-elite-sheet_19
       rect:
         serializedVersion: 2
-        x: 197
-        y: 239
-        width: 43
-        height: 31
+        x: 192
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +652,10 @@ TextureImporter:
       name: brain-elite-sheet_20
       rect:
         serializedVersion: 2
-        x: 5
-        y: 191
-        width: 43
-        height: 34
+        x: 0
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +674,10 @@ TextureImporter:
       name: brain-elite-sheet_21
       rect:
         serializedVersion: 2
-        x: 53
-        y: 191
-        width: 43
-        height: 37
+        x: 48
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,10 +696,10 @@ TextureImporter:
       name: brain-elite-sheet_22
       rect:
         serializedVersion: 2
-        x: 101
-        y: 191
-        width: 43
-        height: 38
+        x: 96
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +718,10 @@ TextureImporter:
       name: brain-elite-sheet_23
       rect:
         serializedVersion: 2
-        x: 149
-        y: 191
-        width: 43
-        height: 40
+        x: 144
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +740,10 @@ TextureImporter:
       name: brain-elite-sheet_24
       rect:
         serializedVersion: 2
-        x: 4
-        y: 143
-        width: 43
-        height: 31
+        x: 0
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +762,10 @@ TextureImporter:
       name: brain-elite-sheet_25
       rect:
         serializedVersion: 2
-        x: 3
-        y: 95
-        width: 45
-        height: 31
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,10 +784,10 @@ TextureImporter:
       name: brain-elite-sheet_26
       rect:
         serializedVersion: 2
-        x: 5
-        y: 47
-        width: 42
-        height: 24
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: brain-elite-sheet_27
       rect:
         serializedVersion: 2
-        x: 11
-        y: 70
-        width: 14
-        height: 8
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -828,10 +828,10 @@ TextureImporter:
       name: brain-elite-sheet_28
       rect:
         serializedVersion: 2
-        x: 53
-        y: 47
-        width: 42
-        height: 24
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +850,10 @@ TextureImporter:
       name: brain-elite-sheet_29
       rect:
         serializedVersion: 2
-        x: 59
-        y: 71
-        width: 14
-        height: 7
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,77 +868,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: brain-elite-sheet_30
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 47
-        width: 42
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 844b82b9cb670e8f0800000000000000
-      internalID: -513279805091171256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: brain-elite-sheet_31
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 71
-        width: 13
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1946cdbab7dccf7c0800000000000000
-      internalID: -4036125234982787951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: brain-elite-sheet_32
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 0
-        width: 42
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5caae40a69dd95e60800000000000000
-      internalID: 7951630256103664325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: afdb3323ce4a2d440abbf8927676f711
     internalID: 0
     vertices: []
     indices: 
@@ -947,7 +881,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      brain-elite-sheet_0: -6668284795269559649
+      brain-elite-sheet_1: -1588064389873524256
+      brain-elite-sheet_10: 6897924570537162512
+      brain-elite-sheet_11: 658916104694466045
+      brain-elite-sheet_12: 3594243113368049123
+      brain-elite-sheet_13: -2311018260147842287
+      brain-elite-sheet_14: -8803723871640280037
+      brain-elite-sheet_15: -8555755402319906429
+      brain-elite-sheet_16: -8119230790755668513
+      brain-elite-sheet_17: 4389690842869459106
+      brain-elite-sheet_18: 8919357914321527465
+      brain-elite-sheet_19: 4424491360824142150
+      brain-elite-sheet_2: 6524855502040101410
+      brain-elite-sheet_20: 8145468131180490487
+      brain-elite-sheet_21: -4282272910680808605
+      brain-elite-sheet_22: 1460670280215501391
+      brain-elite-sheet_23: -300114641069121539
+      brain-elite-sheet_24: 6232346488842708413
+      brain-elite-sheet_25: -8165424210043789246
+      brain-elite-sheet_26: -4962434597663280071
+      brain-elite-sheet_27: -2236598434693964498
+      brain-elite-sheet_28: 3243818451846132722
+      brain-elite-sheet_29: -8372190804191631395
+      brain-elite-sheet_3: 8757031849694140267
+      brain-elite-sheet_4: -6306988638956921163
+      brain-elite-sheet_5: -6202755889237976618
+      brain-elite-sheet_6: -2547360961658303536
+      brain-elite-sheet_7: -5024796701569927475
+      brain-elite-sheet_8: 4416288114384253935
+      brain-elite-sheet_9: 5453734624370221441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

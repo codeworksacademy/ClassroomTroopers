@@ -133,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,7 +147,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -171,7 +171,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -212,10 +212,10 @@ TextureImporter:
       name: brain-sheet_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 431
-        width: 43
-        height: 31
+        x: 0
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: brain-sheet_1
       rect:
         serializedVersion: 2
-        x: 53
-        y: 431
-        width: 43
-        height: 32
+        x: 48
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: brain-sheet_2
       rect:
         serializedVersion: 2
-        x: 101
-        y: 431
-        width: 43
-        height: 32
+        x: 96
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: brain-sheet_3
       rect:
         serializedVersion: 2
-        x: 149
-        y: 431
-        width: 43
-        height: 31
+        x: 144
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: brain-sheet_4
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 384
-        width: 43
-        height: 31
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: brain-sheet_5
       rect:
         serializedVersion: 2
-        x: 53
-        y: 383
-        width: 43
-        height: 31
+        x: 48
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: brain-sheet_6
       rect:
         serializedVersion: 2
-        x: 101
+        x: 96
         y: 384
-        width: 43
-        height: 30
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: brain-sheet_7
       rect:
         serializedVersion: 2
-        x: 149
-        y: 383
-        width: 43
-        height: 31
+        x: 144
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: brain-sheet_8
       rect:
         serializedVersion: 2
-        x: 5
-        y: 335
-        width: 43
-        height: 31
+        x: 0
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: brain-sheet_9
       rect:
         serializedVersion: 2
-        x: 53
-        y: 335
-        width: 43
-        height: 30
+        x: 48
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: brain-sheet_10
       rect:
         serializedVersion: 2
-        x: 102
-        y: 335
-        width: 42
-        height: 30
+        x: 96
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: brain-sheet_11
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 288
-        width: 46
-        height: 31
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +476,10 @@ TextureImporter:
       name: brain-sheet_12
       rect:
         serializedVersion: 2
-        x: 50
-        y: 287
-        width: 46
-        height: 31
+        x: 48
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +498,10 @@ TextureImporter:
       name: brain-sheet_13
       rect:
         serializedVersion: 2
-        x: 98
+        x: 96
         y: 288
-        width: 46
-        height: 31
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +520,10 @@ TextureImporter:
       name: brain-sheet_14
       rect:
         serializedVersion: 2
-        x: 146
-        y: 287
-        width: 46
-        height: 31
+        x: 144
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +542,10 @@ TextureImporter:
       name: brain-sheet_15
       rect:
         serializedVersion: 2
-        x: 7
-        y: 239
-        width: 41
-        height: 37
+        x: 0
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +564,10 @@ TextureImporter:
       name: brain-sheet_16
       rect:
         serializedVersion: 2
-        x: 56
-        y: 239
-        width: 39
-        height: 38
+        x: 48
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,10 +586,10 @@ TextureImporter:
       name: brain-sheet_17
       rect:
         serializedVersion: 2
-        x: 104
-        y: 239
-        width: 39
-        height: 39
+        x: 96
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,10 +608,10 @@ TextureImporter:
       name: brain-sheet_18
       rect:
         serializedVersion: 2
-        x: 147
-        y: 239
-        width: 45
-        height: 33
+        x: 144
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +630,10 @@ TextureImporter:
       name: brain-sheet_19
       rect:
         serializedVersion: 2
-        x: 197
-        y: 239
-        width: 43
-        height: 31
+        x: 192
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +652,10 @@ TextureImporter:
       name: brain-sheet_20
       rect:
         serializedVersion: 2
-        x: 5
-        y: 191
-        width: 43
-        height: 34
+        x: 0
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +674,10 @@ TextureImporter:
       name: brain-sheet_21
       rect:
         serializedVersion: 2
-        x: 53
-        y: 191
-        width: 43
-        height: 37
+        x: 48
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,10 +696,10 @@ TextureImporter:
       name: brain-sheet_22
       rect:
         serializedVersion: 2
-        x: 101
-        y: 191
-        width: 43
-        height: 38
+        x: 96
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +718,10 @@ TextureImporter:
       name: brain-sheet_23
       rect:
         serializedVersion: 2
-        x: 149
-        y: 191
-        width: 43
-        height: 40
+        x: 144
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +740,10 @@ TextureImporter:
       name: brain-sheet_24
       rect:
         serializedVersion: 2
-        x: 4
-        y: 143
-        width: 43
-        height: 31
+        x: 0
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +762,10 @@ TextureImporter:
       name: brain-sheet_25
       rect:
         serializedVersion: 2
-        x: 3
-        y: 95
-        width: 45
-        height: 31
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,10 +784,10 @@ TextureImporter:
       name: brain-sheet_26
       rect:
         serializedVersion: 2
-        x: 5
-        y: 47
-        width: 42
-        height: 24
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: brain-sheet_27
       rect:
         serializedVersion: 2
-        x: 11
-        y: 70
-        width: 14
-        height: 8
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -828,10 +828,10 @@ TextureImporter:
       name: brain-sheet_28
       rect:
         serializedVersion: 2
-        x: 53
-        y: 47
-        width: 42
-        height: 24
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +850,10 @@ TextureImporter:
       name: brain-sheet_29
       rect:
         serializedVersion: 2
-        x: 59
-        y: 71
-        width: 14
-        height: 7
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,77 +868,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: brain-sheet_30
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 47
-        width: 42
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e3064a6150755490800000000000000
-      internalID: -7758171288098176032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: brain-sheet_31
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 71
-        width: 13
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 690de36a99ac23a20800000000000000
-      internalID: 3040715459696447638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: brain-sheet_32
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 0
-        width: 42
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de95206a070e69be0800000000000000
-      internalID: -1470741453863757331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a32eb894625653845beaf62f9f4e630a
     internalID: 0
     vertices: []
     indices: 
@@ -947,7 +881,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      brain-sheet_0: 6045491966281709835
+      brain-sheet_1: 4725458852842180877
+      brain-sheet_10: 5100685082858328956
+      brain-sheet_11: -1095529184729820573
+      brain-sheet_12: 1943881709457524399
+      brain-sheet_13: -1807262798156850516
+      brain-sheet_14: 6897406423868580005
+      brain-sheet_15: 8538875320581554165
+      brain-sheet_16: -7054890286519314524
+      brain-sheet_17: -8586959947953797103
+      brain-sheet_18: 4639131030410321871
+      brain-sheet_19: -3390142422466591712
+      brain-sheet_2: 5492845898132450986
+      brain-sheet_20: -4324107845497665591
+      brain-sheet_21: 5534909841673965912
+      brain-sheet_22: -1940823382108810850
+      brain-sheet_23: -2019210340159731879
+      brain-sheet_24: -5108238898384656902
+      brain-sheet_25: -1046667796581837034
+      brain-sheet_26: 5381631629610428803
+      brain-sheet_27: 9132694613983758434
+      brain-sheet_28: 4005827623822136091
+      brain-sheet_29: 4407091035744048310
+      brain-sheet_3: -5162711256865818163
+      brain-sheet_4: 1441922436459057411
+      brain-sheet_5: 5466436863164085375
+      brain-sheet_6: -5783677912197290223
+      brain-sheet_7: -1629626164039256290
+      brain-sheet_8: -4962359749162375214
+      brain-sheet_9: 2065067709658345220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

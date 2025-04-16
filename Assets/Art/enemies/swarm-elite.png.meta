@@ -118,7 +118,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,7 +132,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -156,7 +156,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -197,10 +197,10 @@ TextureImporter:
       name: swarm-elite_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 239
-        width: 15
-        height: 19
+        x: 0
+        y: 240
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: swarm-elite_1
       rect:
         serializedVersion: 2
-        x: 29
-        y: 239
-        width: 14
-        height: 19
+        x: 24
+        y: 240
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: swarm-elite_2
       rect:
         serializedVersion: 2
-        x: 53
-        y: 239
-        width: 15
-        height: 19
+        x: 48
+        y: 240
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: swarm-elite_3
       rect:
         serializedVersion: 2
-        x: 77
-        y: 239
-        width: 14
-        height: 19
+        x: 72
+        y: 240
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +285,10 @@ TextureImporter:
       name: swarm-elite_4
       rect:
         serializedVersion: 2
-        x: 5
-        y: 215
-        width: 15
-        height: 18
+        x: 0
+        y: 216
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,10 +307,10 @@ TextureImporter:
       name: swarm-elite_5
       rect:
         serializedVersion: 2
-        x: 29
-        y: 215
-        width: 14
-        height: 18
+        x: 24
+        y: 216
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,10 +329,10 @@ TextureImporter:
       name: swarm-elite_6
       rect:
         serializedVersion: 2
-        x: 53
-        y: 215
-        width: 14
-        height: 18
+        x: 48
+        y: 216
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,10 +351,10 @@ TextureImporter:
       name: swarm-elite_7
       rect:
         serializedVersion: 2
-        x: 77
-        y: 215
-        width: 15
-        height: 18
+        x: 72
+        y: 216
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,10 +373,10 @@ TextureImporter:
       name: swarm-elite_8
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 192
-        width: 15
-        height: 18
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,10 +395,10 @@ TextureImporter:
       name: swarm-elite_9
       rect:
         serializedVersion: 2
-        x: 29
-        y: 191
-        width: 16
-        height: 19
+        x: 24
+        y: 192
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -417,10 +417,10 @@ TextureImporter:
       name: swarm-elite_10
       rect:
         serializedVersion: 2
-        x: 53
+        x: 48
         y: 192
-        width: 15
-        height: 18
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,10 +439,10 @@ TextureImporter:
       name: swarm-elite_11
       rect:
         serializedVersion: 2
-        x: 1
-        y: 167
-        width: 19
-        height: 15
+        x: 0
+        y: 168
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,10 +461,10 @@ TextureImporter:
       name: swarm-elite_12
       rect:
         serializedVersion: 2
-        x: 25
-        y: 167
-        width: 19
-        height: 15
+        x: 24
+        y: 168
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,10 +483,10 @@ TextureImporter:
       name: swarm-elite_13
       rect:
         serializedVersion: 2
-        x: 49
-        y: 167
-        width: 19
-        height: 15
+        x: 48
+        y: 168
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -505,10 +505,10 @@ TextureImporter:
       name: swarm-elite_14
       rect:
         serializedVersion: 2
-        x: 73
-        y: 167
-        width: 19
-        height: 15
+        x: 72
+        y: 168
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,10 +527,10 @@ TextureImporter:
       name: swarm-elite_15
       rect:
         serializedVersion: 2
-        x: 6
-        y: 143
-        width: 14
-        height: 22
+        x: 0
+        y: 144
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,10 +549,10 @@ TextureImporter:
       name: swarm-elite_16
       rect:
         serializedVersion: 2
-        x: 5
-        y: 119
-        width: 16
-        height: 15
+        x: 0
+        y: 120
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,10 +571,10 @@ TextureImporter:
       name: swarm-elite_17
       rect:
         serializedVersion: 2
-        x: 29
-        y: 119
-        width: 18
-        height: 16
+        x: 24
+        y: 120
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,10 +593,10 @@ TextureImporter:
       name: swarm-elite_18
       rect:
         serializedVersion: 2
-        x: 53
-        y: 123
-        width: 16
-        height: 16
+        x: 48
+        y: 120
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,10 +615,10 @@ TextureImporter:
       name: swarm-elite_19
       rect:
         serializedVersion: 2
-        x: 5
-        y: 91
-        width: 15
-        height: 21
+        x: 0
+        y: 96
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -637,10 +637,10 @@ TextureImporter:
       name: swarm-elite_20
       rect:
         serializedVersion: 2
-        x: 23
-        y: 95
-        width: 23
-        height: 16
+        x: 24
+        y: 96
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       name: swarm-elite_21
       rect:
         serializedVersion: 2
-        x: 49
-        y: 95
-        width: 19
-        height: 15
+        x: 48
+        y: 96
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -681,10 +681,10 @@ TextureImporter:
       name: swarm-elite_22
       rect:
         serializedVersion: 2
-        x: 5
-        y: 71
-        width: 15
-        height: 21
+        x: 0
+        y: 72
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -703,10 +703,10 @@ TextureImporter:
       name: swarm-elite_23
       rect:
         serializedVersion: 2
-        x: 5
-        y: 47
-        width: 16
-        height: 9
+        x: 0
+        y: 48
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -725,10 +725,10 @@ TextureImporter:
       name: swarm-elite_24
       rect:
         serializedVersion: 2
-        x: 29
-        y: 47
-        width: 16
-        height: 10
+        x: 24
+        y: 48
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -747,10 +747,10 @@ TextureImporter:
       name: swarm-elite_25
       rect:
         serializedVersion: 2
-        x: 53
-        y: 47
-        width: 16
-        height: 12
+        x: 48
+        y: 48
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -769,10 +769,10 @@ TextureImporter:
       name: swarm-elite_26
       rect:
         serializedVersion: 2
-        x: 7
-        y: 23
-        width: 14
-        height: 21
+        x: 0
+        y: 24
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -791,10 +791,10 @@ TextureImporter:
       name: swarm-elite_27
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 20
-        height: 7
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -813,7 +813,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6b1e8c674410aea41b18ce0395087513
     internalID: 0
     vertices: []
     indices: 
@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      swarm-elite_0: -2375170650484965907
+      swarm-elite_1: 602711610736493009
+      swarm-elite_10: -1136015072010722460
+      swarm-elite_11: 5475212421858771475
+      swarm-elite_12: -786600711190303456
+      swarm-elite_13: -7930661728416435707
+      swarm-elite_14: 8289920913813906895
+      swarm-elite_15: -1710979136802699398
+      swarm-elite_16: -3816512775783590439
+      swarm-elite_17: 5774011416558051926
+      swarm-elite_18: 22405856496519266
+      swarm-elite_19: -7444678318179976455
+      swarm-elite_2: -7704347229863505394
+      swarm-elite_20: -3723111655460629294
+      swarm-elite_21: 4103590387721981835
+      swarm-elite_22: 1313085460094942111
+      swarm-elite_23: -687110321965357422
+      swarm-elite_24: 7756464682741193723
+      swarm-elite_25: 656274692661827375
+      swarm-elite_26: 2099656608010348793
+      swarm-elite_27: 5455635168152888416
+      swarm-elite_3: -6868397193343842938
+      swarm-elite_4: 3678793756705446495
+      swarm-elite_5: 3593040738290670987
+      swarm-elite_6: -8215140581272121402
+      swarm-elite_7: 1112991489396219350
+      swarm-elite_8: 3045658476726251831
+      swarm-elite_9: -2987483330155578407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
