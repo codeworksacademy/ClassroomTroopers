@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 1808232910352384271}
   - component: {fileID: 7631711841854868431}
   - component: {fileID: 663411854666477633}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: tyrant
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -78,8 +78,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 499974775
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 3129070474200013059, guid: e1503b928b9a930499d583f7fd335235, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -102,7 +102,7 @@ Animator:
   m_GameObject: {fileID: 5315807601993163525}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e58ecfdec223af04e8c56ab54a8b510e, type: 2}
+  m_Controller: {fileID: 22100000, guid: a31599a5dca4e824fb283ec786f18fb9, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -228,4 +228,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   MoveSpeed: 3
-  AttackDamage: 10
+  AttackDamage: 0

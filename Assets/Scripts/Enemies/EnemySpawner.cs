@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -40,7 +39,7 @@ public class EnemySpawner : MonoBehaviour
             return;
         }
 
-        var enemyToSpawn = EnemiesToSpawn[0];
+        var enemyToSpawn = EnemiesToSpawn[Random.Range(0, EnemiesToSpawn.Count)];
         var enemyGo = Instantiate(enemyToSpawn, transform.position, transform.rotation);
 
         var enemy = enemyGo.GetComponent<Enemy>();

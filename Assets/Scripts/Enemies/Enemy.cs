@@ -7,8 +7,8 @@ public class Enemy : MonoBehaviour
     private Animator animator;
     public GameObject target;
 
-    private bool isAttacking = false;
-    private bool isSleeping = false;
+    public bool isAttacking = false;
+    public bool isSleeping = false;
 
     public float MoveSpeed = 2;
     public float AttackDamage = 5;
@@ -17,7 +17,6 @@ public class Enemy : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
-        // sprite = GetComponent<SpriteRenderer>();
     }
 
 

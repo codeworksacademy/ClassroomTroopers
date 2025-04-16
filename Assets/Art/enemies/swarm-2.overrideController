@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: swarm-2
+  m_Controller: {fileID: 9100000, guid: 3f36a50c153eff146aa4cbe14037c942, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 02fae0195a22d2c4ba1eef27e37e93d5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 04b612363be96d94abed364dbc9a45ac, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b5a705ce7d6147444af667e98c78ad35, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: deaee46b70ece994ab730143c25a73ee, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8016e2198283c914d9874771447a1d19, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d81d5eb11df39e84d8c94c5e305321b2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fb26f33e7d6ae294ea11b894568077bc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a770bc860bf4f0d418d2bdc14f65a473, type: 2}
