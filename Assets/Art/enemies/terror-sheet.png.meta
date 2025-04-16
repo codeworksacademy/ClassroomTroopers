@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 6b0605c4a57e09747b55b48771fc21b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6472434036733664193
+    second: terror-sheet_0
+  - first:
+      213: -7062079928503276761
+    second: terror-sheet_1
+  - first:
+      213: 975599319216328020
+    second: terror-sheet_2
+  - first:
+      213: -8104384008127781210
+    second: terror-sheet_3
+  - first:
+      213: 5168525988277069753
+    second: terror-sheet_4
+  - first:
+      213: -7885680619940863252
+    second: terror-sheet_5
+  - first:
+      213: 936566385454131781
+    second: terror-sheet_6
+  - first:
+      213: -4268489816390050504
+    second: terror-sheet_7
+  - first:
+      213: -2662360175283338184
+    second: terror-sheet_8
+  - first:
+      213: -3915259333690154197
+    second: terror-sheet_9
+  - first:
+      213: -4191619799223543289
+    second: terror-sheet_10
+  - first:
+      213: 6991628867754295646
+    second: terror-sheet_11
+  - first:
+      213: -4582479680423905948
+    second: terror-sheet_12
+  - first:
+      213: -4459702663171213439
+    second: terror-sheet_13
+  - first:
+      213: 8194494809574958710
+    second: terror-sheet_14
+  - first:
+      213: 454598639146129114
+    second: terror-sheet_15
+  - first:
+      213: 8433377397358673957
+    second: terror-sheet_16
+  - first:
+      213: -5970670932041230316
+    second: terror-sheet_17
+  - first:
+      213: 5209027783207314855
+    second: terror-sheet_18
+  - first:
+      213: -4277325214450981220
+    second: terror-sheet_19
+  - first:
+      213: -2586862709796399449
+    second: terror-sheet_20
+  - first:
+      213: 8753498750089656029
+    second: terror-sheet_21
+  - first:
+      213: -9181972926741987359
+    second: terror-sheet_22
+  - first:
+      213: 2055807005237458880
+    second: terror-sheet_23
+  - first:
+      213: -8526057585813621640
+    second: terror-sheet_24
+  - first:
+      213: -5931411667370170291
+    second: terror-sheet_25
+  - first:
+      213: 7064240342739574314
+    second: terror-sheet_26
+  - first:
+      213: 1541810444842364689
+    second: terror-sheet_27
+  - first:
+      213: -4692944901121603873
+    second: terror-sheet_28
+  - first:
+      213: -9029700154747122174
+    second: terror-sheet_29
+  - first:
+      213: -8711631224924571651
+    second: terror-sheet_30
+  - first:
+      213: 925304747594258456
+    second: terror-sheet_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terror-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 479
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a758398b4d26a0800000000000000
+      internalID: -6472434036733664193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 479
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b6526b8b37efd90800000000000000
+      internalID: -7062079928503276761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 479
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d800179660a8d00800000000000000
+      internalID: 975599319216328020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 479
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6ef28fea1778f80800000000000000
+      internalID: -8104384008127781210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 431
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b721a7900b4ab740800000000000000
+      internalID: 5168525988277069753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 431
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce22e3c914f609290800000000000000
+      internalID: -7885680619940863252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 431
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aa0995a2a5ffc00800000000000000
+      internalID: 936566385454131781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 383
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dd2be902743c4c0800000000000000
+      internalID: -4268489816390050504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 383
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8340710c6856d0bd0800000000000000
+      internalID: -2662360175283338184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 383
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23add341643aa9c0800000000000000
+      internalID: -3915259333690154197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 383
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a59c1300064d5c0800000000000000
+      internalID: -4191619799223543289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 337
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e518cd77961470160800000000000000
+      internalID: 6991628867754295646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 335
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46533e97203c760c0800000000000000
+      internalID: -4582479680423905948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 337
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f0dd6e04fb12c0800000000000000
+      internalID: -4459702663171213439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6766f7eec91b8b170800000000000000
+      internalID: 8194494809574958710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 287
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad65ea1cd0f0f4600800000000000000
+      internalID: 454598639146129114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 287
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5204f5a9f00690570800000000000000
+      internalID: 8433377397358673957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 287
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4189ee8db6ae32da0800000000000000
+      internalID: -5970670932041230316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a566339b2f2a4840800000000000000
+      internalID: 5209027783207314855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 239
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96e3d33163e3a4c0800000000000000
+      internalID: -4277325214450981220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 246
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a691eb321e991cd0800000000000000
+      internalID: -2586862709796399449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 239
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd67be43cbcaa7970800000000000000
+      internalID: 8753498750089656029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 193
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef3a447544139080800000000000000
+      internalID: -9181972926741987359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 191
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c730f14491b78c10800000000000000
+      internalID: 2055807005237458880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 193
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874fd077ccb5da980800000000000000
+      internalID: -8526057585813621640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d482bc5b3846fada0800000000000000
+      internalID: -5931411667370170291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ed9fce929390260800000000000000
+      internalID: 7064240342739574314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe0d34e6c956510800000000000000
+      internalID: 1541810444842364689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 95
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd68a2a0a7f4fdeb0800000000000000
+      internalID: -4692944901121603873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 95
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0208fc8f00b280800000000000000
+      internalID: -9029700154747122174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df77b20ae811a1780800000000000000
+      internalID: -8711631224924571651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8189655f3c757dc00800000000000000
+      internalID: 925304747594258456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -7,12 +8,14 @@ public class PlayerController : MonoBehaviour
 
     private Vector2 MoveInput;
     private Rigidbody2D rb;
+    private Animator animator;
 
 
     void Start()
     {
         // NOTE get the component from the game object that this script is attached to
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
 
@@ -22,6 +25,14 @@ public class PlayerController : MonoBehaviour
     {
         MoveInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         MoveInput = MoveInput.normalized;
+
+
+        if (Input.GetButtonDown("pause"))
+        {
+            Debug.Log("pausing the game? " + Time.timeScale);
+            Time.timeScale = Time.timeScale != 0 ? 0 : 1;
+        }
+
 
         // Things you want to see happen visually each frame
 
@@ -34,6 +45,17 @@ public class PlayerController : MonoBehaviour
         {
             transform.localScale = new Vector2(-1, 1);
         }
+
+        if (Math.Abs(MoveInput.magnitude) > .1f)
+        {
+            animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+        }
+
+
     }
 
 

@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: dae3cae0268bedd4e8c9d38b421bc04b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6045491966281709835
+    second: brain-sheet_0
+  - first:
+      213: 4725458852842180877
+    second: brain-sheet_1
+  - first:
+      213: 5492845898132450986
+    second: brain-sheet_2
+  - first:
+      213: -5162711256865818163
+    second: brain-sheet_3
+  - first:
+      213: 1441922436459057411
+    second: brain-sheet_4
+  - first:
+      213: 5466436863164085375
+    second: brain-sheet_5
+  - first:
+      213: -5783677912197290223
+    second: brain-sheet_6
+  - first:
+      213: -1629626164039256290
+    second: brain-sheet_7
+  - first:
+      213: -4962359749162375214
+    second: brain-sheet_8
+  - first:
+      213: 2065067709658345220
+    second: brain-sheet_9
+  - first:
+      213: 5100685082858328956
+    second: brain-sheet_10
+  - first:
+      213: -1095529184729820573
+    second: brain-sheet_11
+  - first:
+      213: 1943881709457524399
+    second: brain-sheet_12
+  - first:
+      213: -1807262798156850516
+    second: brain-sheet_13
+  - first:
+      213: 6897406423868580005
+    second: brain-sheet_14
+  - first:
+      213: 8538875320581554165
+    second: brain-sheet_15
+  - first:
+      213: -7054890286519314524
+    second: brain-sheet_16
+  - first:
+      213: -8586959947953797103
+    second: brain-sheet_17
+  - first:
+      213: 4639131030410321871
+    second: brain-sheet_18
+  - first:
+      213: -3390142422466591712
+    second: brain-sheet_19
+  - first:
+      213: -4324107845497665591
+    second: brain-sheet_20
+  - first:
+      213: 5534909841673965912
+    second: brain-sheet_21
+  - first:
+      213: -1940823382108810850
+    second: brain-sheet_22
+  - first:
+      213: -2019210340159731879
+    second: brain-sheet_23
+  - first:
+      213: -5108238898384656902
+    second: brain-sheet_24
+  - first:
+      213: -1046667796581837034
+    second: brain-sheet_25
+  - first:
+      213: 5381631629610428803
+    second: brain-sheet_26
+  - first:
+      213: 9132694613983758434
+    second: brain-sheet_27
+  - first:
+      213: 4005827623822136091
+    second: brain-sheet_28
+  - first:
+      213: 4407091035744048310
+    second: brain-sheet_29
+  - first:
+      213: -7758171288098176032
+    second: brain-sheet_30
+  - first:
+      213: 3040715459696447638
+    second: brain-sheet_31
+  - first:
+      213: -1470741453863757331
+    second: brain-sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brain-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 431
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09f2b6b9e6e5e350800000000000000
+      internalID: 6045491966281709835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 431
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0112644ac3349140800000000000000
+      internalID: 4725458852842180877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 431
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae6524fd328a3c40800000000000000
+      internalID: 5492845898132450986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 431
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc93a90177d5a58b0800000000000000
+      internalID: -5162711256865818163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301decaf0dcb20410800000000000000
+      internalID: 1441922436459057411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 383
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74fef75d5facdb40800000000000000
+      internalID: 5466436863164085375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 384
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1172534059f3cbfa0800000000000000
+      internalID: -5783677912197290223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 383
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17f1cf43a76269e0800000000000000
+      internalID: -1629626164039256290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7ea7f8918222bb0800000000000000
+      internalID: -4962359749162375214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 335
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fa057042898ac10800000000000000
+      internalID: 2065067709658345220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 335
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7397eaee0649c640800000000000000
+      internalID: 5100685082858328956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3621b17c206ebc0f0800000000000000
+      internalID: -1095529184729820573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa648999d1e0afa10800000000000000
+      internalID: 1943881709457524399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa15147f005be6e0800000000000000
+      internalID: -1807262798156850516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a02f26399288bf50800000000000000
+      internalID: 6897406423868580005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fffc98fcdd208670800000000000000
+      internalID: 8538875320581554165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 239
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a799aea9aef71e90800000000000000
+      internalID: -7054890286519314524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 239
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11805b94c6df4d880800000000000000
+      internalID: -8586959947953797103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 239
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf591ec711816040800000000000000
+      internalID: 4639131030410321871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 239
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02485e2bd6bc3f0d0800000000000000
+      internalID: -3390142422466591712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7c1aa13deadf3c0800000000000000
+      internalID: -4324107845497665591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 191
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8515ac00d23ffcc40800000000000000
+      internalID: 5534909841673965912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d1a9ba6fc015e0800000000000000
+      internalID: -1940823382108810850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 191
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957cbf3d4e25af3e0800000000000000
+      internalID: -2019210340159731879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af523f959c3eb19b0800000000000000
+      internalID: -5108238898384656902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61716ea3f2d7971f0800000000000000
+      internalID: -1046667796581837034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 47
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389afea34756faa40800000000000000
+      internalID: 5381631629610428803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26800a44d59ddbe70800000000000000
+      internalID: 9132694613983758434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139d55000f879730800000000000000
+      internalID: 4005827623822136091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 71
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4155e72f1292d30800000000000000
+      internalID: 4407091035744048310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 47
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3064a6150755490800000000000000
+      internalID: -7758171288098176032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 71
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690de36a99ac23a20800000000000000
+      internalID: 3040715459696447638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de95206a070e69be0800000000000000
+      internalID: -1470741453863757331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: e75adeb5e1c945c41adc264379b70231
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2375170650484965907
+    second: swarm-elite_0
+  - first:
+      213: 602711610736493009
+    second: swarm-elite_1
+  - first:
+      213: -7704347229863505394
+    second: swarm-elite_2
+  - first:
+      213: -6868397193343842938
+    second: swarm-elite_3
+  - first:
+      213: 3678793756705446495
+    second: swarm-elite_4
+  - first:
+      213: 3593040738290670987
+    second: swarm-elite_5
+  - first:
+      213: -8215140581272121402
+    second: swarm-elite_6
+  - first:
+      213: 1112991489396219350
+    second: swarm-elite_7
+  - first:
+      213: 3045658476726251831
+    second: swarm-elite_8
+  - first:
+      213: -2987483330155578407
+    second: swarm-elite_9
+  - first:
+      213: -1136015072010722460
+    second: swarm-elite_10
+  - first:
+      213: 5475212421858771475
+    second: swarm-elite_11
+  - first:
+      213: -786600711190303456
+    second: swarm-elite_12
+  - first:
+      213: -7930661728416435707
+    second: swarm-elite_13
+  - first:
+      213: 8289920913813906895
+    second: swarm-elite_14
+  - first:
+      213: -1710979136802699398
+    second: swarm-elite_15
+  - first:
+      213: -3816512775783590439
+    second: swarm-elite_16
+  - first:
+      213: 5774011416558051926
+    second: swarm-elite_17
+  - first:
+      213: 22405856496519266
+    second: swarm-elite_18
+  - first:
+      213: -7444678318179976455
+    second: swarm-elite_19
+  - first:
+      213: -3723111655460629294
+    second: swarm-elite_20
+  - first:
+      213: 4103590387721981835
+    second: swarm-elite_21
+  - first:
+      213: 1313085460094942111
+    second: swarm-elite_22
+  - first:
+      213: -687110321965357422
+    second: swarm-elite_23
+  - first:
+      213: 7756464682741193723
+    second: swarm-elite_24
+  - first:
+      213: 656274692661827375
+    second: swarm-elite_25
+  - first:
+      213: 2099656608010348793
+    second: swarm-elite_26
+  - first:
+      213: 5455635168152888416
+    second: swarm-elite_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swarm-elite_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 239
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedf8e8a0e2b90fd0800000000000000
+      internalID: -2375170650484965907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 239
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1c3f344034d5800800000000000000
+      internalID: 602711610736493009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 239
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0298b98309a41590800000000000000
+      internalID: -7704347229863505394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 239
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685437a942d8ea0a0800000000000000
+      internalID: -6868397193343842938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 215
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a5a5e3e63bd0330800000000000000
+      internalID: 3678793756705446495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 215
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d9255c38b0dd130800000000000000
+      internalID: 3593040738290670987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 215
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf0161ca25fdfd80800000000000000
+      internalID: -8215140581272121402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 215
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd9e7bdcd3227f00800000000000000
+      internalID: 1112991489396219350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731fc6c7f3a544a20800000000000000
+      internalID: 3045658476726251831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 191
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbfca55db35a86d0800000000000000
+      internalID: -2987483330155578407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 192
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463af459f401c30f0800000000000000
+      internalID: -1136015072010722460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c2b250bcdbfb40800000000000000
+      internalID: 5475212421858771475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 167
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dae6d12de6515f0800000000000000
+      internalID: -786600711190303456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 167
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f3fb2d21a0f190800000000000000
+      internalID: -7930661728416435707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a5f33627bb0370800000000000000
+      internalID: 8289920913813906895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 143
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7745cc4a816148e0800000000000000
+      internalID: -1710979136802699398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5dda6e9d5090bc0800000000000000
+      internalID: -3816512775783590439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 119
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6522ef49ac8612050800000000000000
+      internalID: 5774011416558051926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2680d5df10a9f4000800000000000000
+      internalID: 22405856496519266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 91
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa74d163803fa890800000000000000
+      internalID: -7444678318179976455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4172ddca9d45cc0800000000000000
+      internalID: -3723111655460629294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f40e347b1e2f830800000000000000
+      internalID: 4103590387721981835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 71
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b70b8d444093210800000000000000
+      internalID: 1313085460094942111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 47
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29620c97dc4e676f0800000000000000
+      internalID: -687110321965357422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 47
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd6af888f74ab60800000000000000
+      internalID: 7756464682741193723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27df2b1b5e8b1900800000000000000
+      internalID: 656274692661827375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f822ce7f8a732d10800000000000000
+      internalID: 2099656608010348793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swarm-elite_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064a1edb74f46bb40800000000000000
+      internalID: 5455635168152888416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
