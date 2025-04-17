@@ -5,7 +5,8 @@ public enum PickupType
 {
     Health,
     Mana,
-    Ouchie
+    Ouchie,
+    Weapon
 }
 
 
@@ -13,17 +14,7 @@ public class Pickup : MonoBehaviour
 {
 
     public PickupType type;
-    public float bobSpeed = 0;
-    public float bobHeight = 0;
     public float value = 1f;
-
-    void Update()
-    {
-
-
-
-
-    }
 
 
     // NOTE                           vvv theThingThatTouchedMe     
@@ -42,6 +33,4 @@ public class Pickup : MonoBehaviour
         Destroy(gameObject);
 
     }
-
-
 }

@@ -240,9 +240,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3adc43370ca25446864e2c8863c8185, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 10
-  Pierce: 2
-  Damage: 1
+  Speed: 14
+  Pierce: 3
+  Damage: 2
   lifetime: 2
   HurtsObjectsWithTag:
   - enemy

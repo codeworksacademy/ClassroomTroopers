@@ -94,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,7 +132,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mercenary-sheet_0: -1904890097998893896
+      mercenary-sheet_1: -4590017918571945664
+      mercenary-sheet_10: -7935237246231571884
+      mercenary-sheet_11: -154180857239991071
+      mercenary-sheet_12: -6019880876733357987
+      mercenary-sheet_13: -7553926120326080445
+      mercenary-sheet_14: -8282249829531329828
+      mercenary-sheet_15: 97320542516227407
+      mercenary-sheet_16: -5107562060542356050
+      mercenary-sheet_17: 3754375637152111505
+      mercenary-sheet_18: 3952824465379061569
+      mercenary-sheet_19: 7551883844660024000
+      mercenary-sheet_2: -2518355160947017348
+      mercenary-sheet_3: 1756467925068272527
+      mercenary-sheet_4: 6707718955553491109
+      mercenary-sheet_5: -5052748847131387295
+      mercenary-sheet_6: -8234425444103078575
+      mercenary-sheet_7: -1772852294713695844
+      mercenary-sheet_8: -2898269886627305891
+      mercenary-sheet_9: 701034561829838970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

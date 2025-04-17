@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Soldier
+  m_EditorClassIdentifier: Assembly-CSharp::BaseCharater
+  Name: Jimbo
+  Health: 100
+  Shield: 0
+  MoveSpeed: 5
+  Sprite: {fileID: -4318237462920738398, guid: fce134d8593c45141b6ade875b3692ef, type: 3}
+  AnimatorController: {fileID: 9100000, guid: ce31157ab20757d40931053d29887d80, type: 2}
+  AttackSpeed: 2
+  ProjectilePrefab: {fileID: 8054249613631802657, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}
+  Spread: 5
+  BurstCout: 3
+  CycleRate: 0.1
+  PierceMod: 0
+  DamageMod: 0
+  ProjectileSpeedMod: 0
+  ScaleMod: 1

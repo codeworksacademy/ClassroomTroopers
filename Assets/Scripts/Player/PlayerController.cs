@@ -4,11 +4,10 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    public float speed = 1f;
-
     private Vector2 MoveInput;
     private Rigidbody2D rb;
     private Animator animator;
+    private Player player;
 
 
     void Start()
@@ -16,6 +15,7 @@ public class PlayerController : MonoBehaviour
         // NOTE get the component from the game object that this script is attached to
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        player = GetComponent<Player>();
     }
 
 
@@ -62,7 +62,7 @@ public class PlayerController : MonoBehaviour
     // NOTE The physics update
     void FixedUpdate()
     {
-        rb.linearVelocity = MoveInput * speed;
+        rb.linearVelocity = MoveInput * player.MoveSpeed;
     }
 
 }

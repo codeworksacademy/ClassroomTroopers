@@ -1,8 +1,11 @@
 using System.Collections;
+using UnityEditor.U2D.Animation;
 using UnityEngine;
 
 public class Character : MonoBehaviour
 {
+
+    public BaseCharater BaseCharacter;
 
     public float Health = 100;
     public float Shield = 0;
@@ -12,10 +15,20 @@ public class Character : MonoBehaviour
     protected Animator animator;
     private bool isFlashing = false;
 
-    void Start()
+    public void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+
+        if (BaseCharacter != null)
+        {
+            Health = BaseCharacter.Health;
+            Shield = BaseCharacter.Shield;
+            MoveSpeed = BaseCharacter.MoveSpeed;
+            sprite.sprite = BaseCharacter.Sprite;
+            animator.runtimeAnimatorController = BaseCharacter.AnimatorController;
+        }
+
     }
 
 

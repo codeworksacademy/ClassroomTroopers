@@ -103,7 +103,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -117,7 +117,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -141,7 +141,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -183,9 +183,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 111
-        width: 15
-        height: 15
+        y: 112
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: engineer-sheet_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 96
-        width: 15
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: engineer-sheet_2
       rect:
         serializedVersion: 2
-        x: 48
+        x: 16
         y: 96
-        width: 15
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: engineer-sheet_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 95
-        width: 15
-        height: 15
+        x: 32
+        y: 96
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -270,10 +270,10 @@ TextureImporter:
       name: engineer-sheet_4
       rect:
         serializedVersion: 2
-        x: 17
-        y: 80
-        width: 14
-        height: 15
+        x: 48
+        y: 96
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,10 +292,10 @@ TextureImporter:
       name: engineer-sheet_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 95
-        width: 15
-        height: 15
+        x: 0
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,10 +314,10 @@ TextureImporter:
       name: engineer-sheet_6
       rect:
         serializedVersion: 2
-        x: 49
+        x: 16
         y: 80
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,9 +336,9 @@ TextureImporter:
       name: engineer-sheet_7
       rect:
         serializedVersion: 2
-        x: 1
-        y: 78
-        width: 14
+        x: 32
+        y: 80
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -358,10 +358,10 @@ TextureImporter:
       name: engineer-sheet_8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 63
-        width: 14
-        height: 17
+        x: 48
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,10 +380,10 @@ TextureImporter:
       name: engineer-sheet_9
       rect:
         serializedVersion: 2
-        x: 33
-        y: 79
-        width: 14
-        height: 15
+        x: 0
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,9 +402,9 @@ TextureImporter:
       name: engineer-sheet_10
       rect:
         serializedVersion: 2
-        x: 1
-        y: 47
-        width: 14
+        x: 0
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -424,9 +424,9 @@ TextureImporter:
       name: engineer-sheet_11
       rect:
         serializedVersion: 2
-        x: 17
-        y: 47
-        width: 14
+        x: 16
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -446,10 +446,10 @@ TextureImporter:
       name: engineer-sheet_12
       rect:
         serializedVersion: 2
-        x: 33
+        x: 32
         y: 48
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,9 +468,9 @@ TextureImporter:
       name: engineer-sheet_13
       rect:
         serializedVersion: 2
-        x: 49
-        y: 47
-        width: 14
+        x: 48
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -490,10 +490,10 @@ TextureImporter:
       name: engineer-sheet_14
       rect:
         serializedVersion: 2
-        x: 65
+        x: 64
         y: 48
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,9 +512,9 @@ TextureImporter:
       name: engineer-sheet_15
       rect:
         serializedVersion: 2
-        x: 1
-        y: 31
-        width: 14
+        x: 0
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -534,10 +534,10 @@ TextureImporter:
       name: engineer-sheet_16
       rect:
         serializedVersion: 2
-        x: 17
+        x: 16
         y: 32
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -556,9 +556,9 @@ TextureImporter:
       name: engineer-sheet_17
       rect:
         serializedVersion: 2
-        x: 33
-        y: 31
-        width: 14
+        x: 32
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -578,10 +578,10 @@ TextureImporter:
       name: engineer-sheet_18
       rect:
         serializedVersion: 2
-        x: 49
+        x: 48
         y: 32
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,7 +601,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 15
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -622,10 +622,10 @@ TextureImporter:
       name: engineer-sheet_20
       rect:
         serializedVersion: 2
-        x: 15
-        y: 15
+        x: 16
+        y: 16
         width: 16
-        height: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -644,10 +644,10 @@ TextureImporter:
       name: engineer-sheet_21
       rect:
         serializedVersion: 2
-        x: 33
-        y: 15
-        width: 14
-        height: 15
+        x: 32
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -666,10 +666,10 @@ TextureImporter:
       name: engineer-sheet_22
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 14
-        height: 14
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -688,7 +688,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8f7270698d5467f4ab156f03ad92142a
     internalID: 0
     vertices: []
     indices: 
@@ -697,7 +697,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      engineer-sheet_0: 2170427927259693328
+      engineer-sheet_1: 6466405699724534634
+      engineer-sheet_10: 5094457043351940571
+      engineer-sheet_11: 1533067655995823209
+      engineer-sheet_12: -8708363915217863775
+      engineer-sheet_13: 7526584853190472084
+      engineer-sheet_14: -7059192863036722103
+      engineer-sheet_15: -208155527350050510
+      engineer-sheet_16: -2312653507559438818
+      engineer-sheet_17: -785577100384107735
+      engineer-sheet_18: 7289537694381579312
+      engineer-sheet_19: 3893739808502950898
+      engineer-sheet_2: 4516994973793513302
+      engineer-sheet_20: -2426672713980494927
+      engineer-sheet_21: -1763738869709570754
+      engineer-sheet_22: 7784976475323571364
+      engineer-sheet_3: 8811835256931813342
+      engineer-sheet_4: 3291180839395766359
+      engineer-sheet_5: 5033872354048157307
+      engineer-sheet_6: -1181373716364802863
+      engineer-sheet_7: -7398474039654083572
+      engineer-sheet_8: 3806326183906938310
+      engineer-sheet_9: 2908142631996445139
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
