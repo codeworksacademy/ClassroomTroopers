@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
-
-    public BaseCharater BaseCharacter;
-
     public float Health = 100;
     public float Shield = 0;
     public float MoveSpeed = 2;
@@ -19,16 +16,6 @@ public class Character : MonoBehaviour
     {
         sprite = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-
-        if (BaseCharacter != null)
-        {
-            Health = BaseCharacter.Health;
-            Shield = BaseCharacter.Shield;
-            MoveSpeed = BaseCharacter.MoveSpeed;
-            sprite.sprite = BaseCharacter.Sprite;
-            animator.runtimeAnimatorController = BaseCharacter.AnimatorController;
-        }
-
     }
 
 
@@ -45,7 +32,6 @@ public class Character : MonoBehaviour
             yield return new WaitForSeconds(.1f);
             duration -= .2f;
         }
-
 
         sprite.color = startingColor;
         isFlashing = false;
@@ -69,11 +55,8 @@ public class Character : MonoBehaviour
     {
         if (Health <= 0)
         {
-
             Destroy(gameObject);
         }
     }
-
-
 
 }

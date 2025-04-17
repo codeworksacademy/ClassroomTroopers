@@ -7,13 +7,13 @@ public class LightFlicker : MonoBehaviour
 
     private float StartingStrength = 0;
 
-    private Light2D light;
+    private Light2D _light;
 
 
     void Start()
     {
-        light = GetComponent<Light2D>();
-        StartingStrength = light.intensity;
+        _light = GetComponent<Light2D>();
+        StartingStrength = _light.intensity;
     }
 
 
@@ -24,7 +24,7 @@ public class LightFlicker : MonoBehaviour
     void Update()
     {
 
-        light.intensity = Random.Range(StartingStrength - FlickerStrength, StartingStrength);
+        _light.intensity = Random.Range(StartingStrength - FlickerStrength, StartingStrength);
 
     }
 }

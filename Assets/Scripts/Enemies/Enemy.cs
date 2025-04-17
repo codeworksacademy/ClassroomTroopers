@@ -52,8 +52,6 @@ public class Enemy : Character
         isAttacking = true;
 
         player.ApplyDamage(AttackDamage);
-
-
     }
 
     public void EndAttack()
