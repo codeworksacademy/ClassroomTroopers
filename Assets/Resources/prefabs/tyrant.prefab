@@ -226,6 +226,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1a0559ad08bee046ba8989d0094f16b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Health: 35
+  Shield: 0
+  MoveSpeed: 2
   target: {fileID: 0}
-  MoveSpeed: 3
+  isAttacking: 0
+  isSleeping: 0
   AttackDamage: 0

@@ -9,6 +9,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 663411854666477633, guid: 0e1544723325cee428589244eb827cdb, type: 3}
+      propertyPath: Health
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 663411854666477633, guid: 0e1544723325cee428589244eb827cdb, type: 3}
+      propertyPath: MoveSpeed
+      value: 2.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 663411854666477633, guid: 0e1544723325cee428589244eb827cdb, type: 3}
       propertyPath: AttackDamage
       value: 0
       objectReference: {fileID: 0}
@@ -46,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 22100000, guid: da514081880020245a0f2b3eee2a3bd5, type: 2}
     - target: {fileID: 5315807601993163525, guid: 0e1544723325cee428589244eb827cdb, type: 3}
       propertyPath: m_Name
-      value: swarm Variant
+      value: swarm 3
       objectReference: {fileID: 0}
     - target: {fileID: 6152052934430089538, guid: 0e1544723325cee428589244eb827cdb, type: 3}
       propertyPath: m_LocalPosition.x

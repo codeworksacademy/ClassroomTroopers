@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: 748364489995680449c9520856022cfe
+guid: 33046326241f15d40a356d4cce8b6cac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6508970924385161075
-    second: muzzle-flash_0
+      213: 5884484594569401056
+    second: puddle2_0
   - first:
-      213: -5387040540147054810
-    second: muzzle-flash_1
+      213: 490743393319799393
+    second: puddle2_1
+  - first:
+      213: 2666876100084633158
+    second: puddle2_2
+  - first:
+      213: 6189765932619043889
+    second: puddle2_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,12 +55,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: muzzle-flash_0
+      name: puddle2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2
-        width: 19
-        height: 20
+        x: 1
+        y: 10
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,19 +137,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 37fc259d192845a50800000000000000
-      internalID: 6508970924385161075
+      spriteID: 0e25199bf83e9a150800000000000000
+      internalID: 5884484594569401056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: muzzle-flash_1
+      name: puddle2_1
       rect:
         serializedVersion: 2
-        x: 23
-        y: 8
-        width: 25
+        x: 6
+        y: 14
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a42b224887fc600800000000000000
+      internalID: 490743393319799393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puddle2_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 9
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -153,8 +181,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62708e5ab236d35b0800000000000000
-      internalID: -5387040540147054810
+      spriteID: 64e068deea5a20520800000000000000
+      internalID: 2666876100084633158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puddle2_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1349298225776e550800000000000000
+      internalID: 6189765932619043889
       vertices: []
       indices: 
       edges: []
@@ -163,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      muzzle-flash_0: 6508970924385161075
-      muzzle-flash_1: -5387040540147054810
+      puddle2_0: 5884484594569401056
+      puddle2_1: 490743393319799393
+      puddle2_2: 2666876100084633158
+      puddle2_3: 6189765932619043889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

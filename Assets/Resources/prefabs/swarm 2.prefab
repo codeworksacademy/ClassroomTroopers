@@ -8,13 +8,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2940114176883087455, guid: 7dbd2ca914bd7474c89d35ba1c19b692, type: 3}
+      propertyPath: Health
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2940114176883087455, guid: 7dbd2ca914bd7474c89d35ba1c19b692, type: 3}
+      propertyPath: MoveSpeed
+      value: 3.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4617785625864362231, guid: 7dbd2ca914bd7474c89d35ba1c19b692, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -3270433984028738515, guid: 2a8039aa0c7acd6459e3e1d2ed6f51a7, type: 3}
     - target: {fileID: 7510879432182516507, guid: 7dbd2ca914bd7474c89d35ba1c19b692, type: 3}
       propertyPath: m_Name
-      value: swarm Variant 2 Variant
+      value: swarm 2
       objectReference: {fileID: 0}
     - target: {fileID: 7531865041438872590, guid: 7dbd2ca914bd7474c89d35ba1c19b692, type: 3}
       propertyPath: m_Controller

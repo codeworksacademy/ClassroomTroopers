@@ -9,6 +9,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 663411854666477633, guid: 0e1544723325cee428589244eb827cdb, type: 3}
+      propertyPath: Health
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 663411854666477633, guid: 0e1544723325cee428589244eb827cdb, type: 3}
+      propertyPath: MoveSpeed
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 663411854666477633, guid: 0e1544723325cee428589244eb827cdb, type: 3}
       propertyPath: AttackDamage
       value: 0
       objectReference: {fileID: 0}
@@ -34,7 +42,7 @@ PrefabInstance:
       objectReference: {fileID: 22100000, guid: 432fc127d2e56fd4f8c1c156781883c6, type: 2}
     - target: {fileID: 5315807601993163525, guid: 0e1544723325cee428589244eb827cdb, type: 3}
       propertyPath: m_Name
-      value: terror Variant
+      value: terror
       objectReference: {fileID: 0}
     - target: {fileID: 6152052934430089538, guid: 0e1544723325cee428589244eb827cdb, type: 3}
       propertyPath: m_LocalPosition.x

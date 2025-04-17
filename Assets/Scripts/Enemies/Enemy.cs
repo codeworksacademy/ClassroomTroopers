@@ -1,23 +1,14 @@
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy : Character
 {
 
-    // private SpriteRenderer sprite;
-    private Animator animator;
+
     public GameObject target;
 
     public bool isAttacking = false;
     public bool isSleeping = false;
-
-    public float MoveSpeed = 2;
     public float AttackDamage = 5;
-
-
-    void Start()
-    {
-        animator = GetComponent<Animator>();
-    }
 
 
     // Update is called once per frame
