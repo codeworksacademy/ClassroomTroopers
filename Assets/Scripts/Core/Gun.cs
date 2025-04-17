@@ -27,15 +27,19 @@ public class Gun : MonoBehaviour
     {
         Debug.Log("Gun Start");
         Player = GetComponentInParent<Player>();
-        Spread = Player.BaseCharacter.Spread;
-        BurstCout = Player.BaseCharacter.BurstCout;
-        CycleRate = Player.BaseCharacter.CycleRate;
-        PierceMod = Player.BaseCharacter.PierceMod;
-        DamageMod = Player.BaseCharacter.DamageMod;
-        ProjectileSpeedMod = Player.BaseCharacter.ProjectileSpeedMod;
-        ScaleMod = Player.BaseCharacter.ScaleMod;
-        AttackSpeed = Player.BaseCharacter.AttackSpeed;
-        Projectile = Player.BaseCharacter.ProjectilePrefab;
+    }
+
+    public void ApplyBaseStats(BaseCharater data)
+    {
+        Spread = data.Spread;
+        BurstCout = data.BurstCout;
+        CycleRate = data.CycleRate;
+        PierceMod = data.PierceMod;
+        DamageMod = data.DamageMod;
+        ProjectileSpeedMod = data.ProjectileSpeedMod;
+        ScaleMod = data.ScaleMod;
+        AttackSpeed = data.AttackSpeed;
+        Projectile = data.ProjectilePrefab;
     }
 
 

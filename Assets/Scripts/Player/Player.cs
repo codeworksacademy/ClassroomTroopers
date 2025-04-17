@@ -7,8 +7,13 @@ public class Player : Character
 
     new void Start()
     {
+        BaseCharacter = Resources.Load<BaseCharater>("characters/" + PlayerPrefs.GetString("SelectedCharacter"));
+        Debug.Log("Player Start " + BaseCharacter?.name);
+
         base.Start();
         gun = GetComponentInChildren<Gun>();
+        gun.ApplyBaseStats(BaseCharacter);
+        gun.Player = this;
     }
 
     //                               vvv the item I picked up
