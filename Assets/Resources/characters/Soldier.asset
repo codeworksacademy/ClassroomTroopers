@@ -16,7 +16,7 @@ MonoBehaviour:
   Health: 100
   Shield: 0
   MoveSpeed: 5
-  Sprite: {fileID: -4318237462920738398, guid: fce134d8593c45141b6ade875b3692ef, type: 3}
+  Sprite: {fileID: 3937495229951774242, guid: 8b3b134739bd7264ab36972a38ddafac, type: 3}
   AnimatorController: {fileID: 9100000, guid: ce31157ab20757d40931053d29887d80, type: 2}
   AttackSpeed: 2
   ProjectilePrefab: {fileID: 8054249613631802657, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}

@@ -21,4 +21,5 @@ public class WeaponMod : Pickup
 {
 
     public List<WeaponModifiers> Modifiers;
+
 }
