@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEditor.U2D.Animation;
 using UnityEngine;
@@ -7,6 +8,7 @@ public class Character : MonoBehaviour
     public float Health = 100;
     public float Shield = 0;
     public float MoveSpeed = 2;
+    public Action OnHealthChange;
 
     private SpriteRenderer sprite;
     protected Animator animator;
@@ -42,6 +44,7 @@ public class Character : MonoBehaviour
     public void ApplyDamage(float amount)
     {
         Health -= amount;
+        OnHealthChange?.Invoke();
         if (!isFlashing)
         {
             StartCoroutine(Flash(1));

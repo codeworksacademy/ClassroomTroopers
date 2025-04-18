@@ -47,6 +47,9 @@ MonoBehaviour:
   AttackSpeed: 1.25
   Projectile: {fileID: 8054249613631802657, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}
   Player: {fileID: 2100561392805243974}
+  BurstCount: 1
+  CycleTime: 0.2
+  Spread: 0
 --- !u!1 &4556897820635800647
 GameObject:
   m_ObjectHideFlags: 0
@@ -279,6 +282,8 @@ MonoBehaviour:
   Health: 100
   Shield: 0
   MoveSpeed: 5
+  BaseCharacter: {fileID: 11400000, guid: 6a83b986a255afa44a59142ad927fc86, type: 2}
+  gun: {fileID: 2980176702174025257}
 --- !u!70 &4781378981355132827
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

@@ -1,0 +1,44 @@
+.menu-button {
+    font-size: 85px;
+    background-color: rgba(97, 209, 247, 0.1);
+    color: rgb(255, 255, 255);
+    transition-duration: 0.35s;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-bottom-left-radius: 16px;
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    align-items: center;
+}
+
+.menu-button:hover {
+    background-color: rgba(125, 198, 224, 0.83);
+    border-left-color: rgba(0, 132, 255, 0.71);
+    border-right-color: rgba(0, 132, 255, 0.71);
+    border-top-color: rgba(0, 132, 255, 0.71);
+    border-bottom-color: rgba(0, 132, 255, 0.71);
+    border-top-width: 9px;
+    border-right-width: 9px;
+    border-bottom-width: 9px;
+    border-left-width: 9px;
+}
+
+.character-button {
+    font-size: 41px;
+}
+
+.character-icon {
+    width: 150px;
+    height: 150px;
+}
+
+.scoll{
+    overflow: scroll;
+}

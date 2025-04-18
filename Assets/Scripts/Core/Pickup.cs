@@ -5,7 +5,8 @@ public enum PickupType
 {
     Health,
     Mana,
-    Ouchie
+    Ouchie,
+    Weapon
 }
 
 

@@ -232,4 +232,4 @@ MonoBehaviour:
   target: {fileID: 0}
   isAttacking: 0
   isSleeping: 0
-  AttackDamage: 0
+  AttackDamage: 20

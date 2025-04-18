@@ -10,6 +10,8 @@ public class PlayerController : MonoBehaviour
     private Player player;
 
 
+
+
     void Start()
     {
         // NOTE get the component from the game object that this script is attached to
