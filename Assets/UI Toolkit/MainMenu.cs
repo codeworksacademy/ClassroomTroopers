@@ -24,6 +24,7 @@ public class MainMenu : MonoBehaviour
         DrawCharacterButtons();
 
         startButton.clicked += StartGame;
+        SelectedCharacter.Start();
     }
 
 

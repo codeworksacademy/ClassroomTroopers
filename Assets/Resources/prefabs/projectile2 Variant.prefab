@@ -21,6 +21,10 @@ PrefabInstance:
       value: 0.007
       objectReference: {fileID: 0}
     - target: {fileID: 4071119712662412434, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}
+      propertyPath: m_Volume
+      value: 0.156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4071119712662412434, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}
       propertyPath: m_Resource
       value: 
       objectReference: {fileID: 8300000, guid: 43408e64c900f76418c584a54438065f, type: 3}
@@ -88,6 +92,14 @@ PrefabInstance:
       propertyPath: lifetime
       value: 1.75
       objectReference: {fileID: 0}
+    - target: {fileID: 8054249613631802657, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}
+      propertyPath: HurtsObjectsWithTag.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8054249613631802657, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}
+      propertyPath: 'HurtsObjectsWithTag.Array.data[1]'
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 8576256045224326172, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}
       propertyPath: m_Name
       value: projectile2 Variant
@@ -128,7 +140,8 @@ PrefabInstance:
       propertyPath: m_PointLightOuterRadius
       value: 0.69
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6198011422969298832, guid: c6940b8b6980c3740ace81eefca0d074, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

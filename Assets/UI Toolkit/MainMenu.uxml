@@ -2,7 +2,7 @@
     <Style src="project://database/Assets/UI%20Toolkit/MainMenu.uss?fileID=7433441132597879392&amp;guid=4f899b413792d404fb9c529995ed59e1&amp;type=3#MainMenu" />
     <ui:VisualElement name="Container" style="flex-grow: 1; flex-direction: column; align-items: center; justify-content: space-between;">
         <ui:VisualElement name="logo-container" style="flex-grow: 0; background-image: url(&quot;project://database/Assets/Art/logo.png?fileID=2800000&amp;guid=16220b77e1314dd4f8085e860b76dd20&amp;type=3#logo&quot;); width: 1018px; -unity-background-scale-mode: scale-to-fit; height: 74px; margin-top: 43px; margin-right: 43px; margin-bottom: 43px; margin-left: 43px;" />
-        <ui:VisualElement name="character-list" class="scoll" style="flex-grow: 1; max-height: 30%;">
+        <ui:VisualElement name="character-list" class="scoll" style="flex-grow: 1; max-height: none; width: 1807px; align-items: center; flex-direction: row; justify-content: center;">
             <ui:Button class="character-button menu-button" style="background-color: rgba(0, 0, 0, 0);">
                 <ui:VisualElement name="character-icon" class="character-icon" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Art/troopers/engineer.gif?fileID=2800000&amp;guid=7385caf282ee8064d93e0ff21b8efbc3&amp;type=3#engineer&quot;); width: 150px; height: 150px;" />
                 <ui:Label text="Gilbert Y" name="character-name" />

@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -8,6 +9,11 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private Player player;
+    private AudioSource audioSource;
+
+    public bool UseFootstepSounds = true;
+    public List<AudioClip> FootstepSounds;
+
 
 
 
@@ -18,6 +24,8 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         player = GetComponent<Player>();
+        audioSource = GetComponent<AudioSource>();
+        audioSource.loop = false;
     }
 
 
@@ -51,10 +59,16 @@ public class PlayerController : MonoBehaviour
         if (Math.Abs(MoveInput.magnitude) > .1f)
         {
             animator.SetBool("isRunning", true);
+            if (!audioSource.isPlaying)
+            {
+                audioSource.clip = FootstepSounds[UnityEngine.Random.Range(0, FootstepSounds.Count)];
+                audioSource.Play();
+            }
         }
         else
         {
             animator.SetBool("isRunning", false);
+            audioSource.Stop();
         }
 
 

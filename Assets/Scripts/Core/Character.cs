@@ -1,6 +1,5 @@
 using System;
 using System.Collections;
-using UnityEditor.U2D.Animation;
 using UnityEngine;
 
 public class Character : MonoBehaviour
@@ -14,7 +13,7 @@ public class Character : MonoBehaviour
     protected Animator animator;
     private bool isFlashing = false;
 
-    public void Start()
+    public virtual void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
@@ -45,20 +44,10 @@ public class Character : MonoBehaviour
     {
         Health -= amount;
         OnHealthChange?.Invoke();
-        if (!isFlashing)
+
+        if (!isFlashing && Health > 0)
         {
             StartCoroutine(Flash(1));
-        }
-        CheckDeath();
-    }
-
-
-
-    private void CheckDeath()
-    {
-        if (Health <= 0)
-        {
-            Destroy(gameObject);
         }
     }
 

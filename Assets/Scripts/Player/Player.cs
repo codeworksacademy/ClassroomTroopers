@@ -13,7 +13,7 @@ public class Player : Character
 
     public new void Start()
     {
-        var prefabName = PlayerPrefs.GetString("SelectedCharacter");
+        var prefabName = PlayerPrefs.GetString("SelectedCharacter", "Soldier");
         if (prefabName == null)
         {
             Debug.Log("no prefab");

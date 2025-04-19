@@ -10,6 +10,12 @@ public class Enemy : Character
     public bool isSleeping = false;
     public float AttackDamage = 5;
 
+    public override void Start()
+    {
+        base.Start();
+        OnHealthChange += CheckDeath;
+    }
+
 
     // Update is called once per frame
     void Update()
@@ -65,6 +71,14 @@ public class Enemy : Character
 
         animator.SetBool("isSleeping", true);
         isSleeping = true;
+    }
+
+    public virtual void CheckDeath()
+    {
+        if (Health <= 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
 

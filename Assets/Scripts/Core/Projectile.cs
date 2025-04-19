@@ -8,14 +8,22 @@ public class Projectile : MonoBehaviour
     public float Pierce = 2;
     public float Damage = 1;
     public float lifetime = 2;
-    private float direction = 1;
+    public float direction { get; private set; } = 1;
+
+    public float maxLifetime { get; private set; } = 0;
+
 
     public List<string> HurtsObjectsWithTag;
     private Dictionary<GameObject, bool> alreadyHit = new Dictionary<GameObject, bool>();
 
+    public virtual void Start()
+    {
+        maxLifetime = lifetime;
+    }
+
 
     // Update is called once per frame
-    void Update()
+    public virtual void Update()
     {
 
         transform.position += transform.right * direction * Time.deltaTime * Speed;

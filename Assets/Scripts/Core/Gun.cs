@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Gun : MonoBehaviour
@@ -6,12 +7,19 @@ public class Gun : MonoBehaviour
 
     public float AttackSpeed = 2;
     public Projectile Projectile;
-    public Player Player;
+    public Transform OriginPoint;
     private float lastAttack = 0;
 
     public float BurstCount = 1;
     public float CycleTime = .2f;
     public float Spread = 0;
+
+    private Character character;
+
+    public void Start()
+    {
+        character = GetComponentInParent<Character>();
+    }
 
     public void ApplyBaseStats(BaseCharacter data)
     {
@@ -24,7 +32,7 @@ public class Gun : MonoBehaviour
 
 
 
-    void Update()
+    public virtual void Update()
     {
         if (lastAttack <= 0)
         {
@@ -35,7 +43,7 @@ public class Gun : MonoBehaviour
     }
 
 
-    IEnumerator Fire()
+    protected IEnumerator Fire()
     {
         lastAttack = AttackSpeed;
 
@@ -43,7 +51,9 @@ public class Gun : MonoBehaviour
         {
             var rotation = new Vector3(0, 0, Random.Range(-Spread, Spread));
             var projectile = Instantiate(Projectile, transform.position, Quaternion.Euler(rotation));
-            projectile.SetTargetDirection(Player.transform.localScale.x);
+            var direction = character?.transform.localScale.x ?? transform.localScale.x;
+            projectile.SetTargetDirection(direction);
+
             yield return new WaitForSeconds(CycleTime);
         }
 
